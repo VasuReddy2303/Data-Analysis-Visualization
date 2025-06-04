@@ -2,8 +2,9 @@
 
 ## 📊 Operational Budget Analysis and Visualization – Rutgers University
 
-- This project involves a comprehensive analysis of Rutgers University’s operational budget data. 
+- Conducted a comprehensive analysis of Rutgers University’s operational budget data  
+- Utilized Python, SQL, and Power BI to examine trends in revenue, expenses, transfers, and non-operating assets  
+- Analyzed financial data across multiple organizational levels including campuses, units, divisions, and departments  
+- Built interactive Power BI dashboards to enable users to explore financial patterns dynamically  
+- Delivered data-driven insights and recommendations to support strategic budget planning and resource allocation  
 
-- Using Python, SQL, and Tableau, I examined trends in revenue, expenses, transfers, and non-operating assets across various organizational levels : campuses, units, divisions, and departments.
-
-- I developed interactive dashboards that allow users to explore financial patterns at multiple levels, providing data-driven insights and recommendations to support strategic budget management and planning.
